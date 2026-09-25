@@ -7,5 +7,5 @@ Built my own personal design portfolio.
 Worked on projects that I am genuinely proud to show people.
 Became confident enough in my skills that I no longer feel like a beginner.
 
-![My graduate](Graduated photo Peter.jpg)
+![My graduate](Graduated_photo_Peter.jpg)
 
